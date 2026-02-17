@@ -48,3 +48,4 @@ imala-single-page/
     3rd.jpg
     last.jpg
     Imala.jpg
+
